@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="UACM.MainPage">
+
+    <StackLayout BackgroundColor="White">
+        <!--Frame BackgroundColor="#5E2129" Padding="24" CornerRadius="0">
+            <Label Text="UACM" HorizontalTextAlignment="End" TextColor="White" FontSize="15"/>
+        </Frame-->
+        
+        <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="Fill">
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" VerticalOptions="Center">
+                <ContentView Padding="0,40,0,40" VerticalOptions="FillAndExpand">
+                    <Image Source="logo_uacm.png" VerticalOptions="Center" HeightRequest="250"/>
+                </ContentView>
+            </StackLayout>
+        </StackLayout>
+
+        <StackLayout Orientation="Vertical" Margin="30,-20,30,100" Spacing="10">
+
+            <Label Text="Bienvenid@ a la Universiada Autónoma de la Ciudad de México" HorizontalTextAlignment="Center" FontSize="Title" Padding="30,10,30,10" TextColor="Black"/>
+        <Label Text="Este es un sistema para consultar si un profesor se encuentra dentro de su cubiculo y de este modo agendar unca cita para asesoria o tutoria." TextColor="Black" FontSize="16" Padding="30,0,20,20"/>
+        
+
+            <Button Text="Iniciar sesion" BackgroundColor="#5E2129"  TextColor="White" x:Name="btnInicioSesion"/>
+            <!--Label Text="O"  Margin="0,-10,0,50" TextColor="Black" HorizontalTextAlignment="Center"/-->
+
+       
+            <ContentView Padding="90,0,100,0" VerticalOptions="FillAndExpand">
+                <!--Button ImageSource="microfono.png" Margin="0,-10,0,0" BackgroundColor="#5E2129"  TextColor="White"/-->
+                <ImageButton Source="mic.jpg" Margin="75,0,10,0"  CornerRadius="30" x:Name="btnAudio" />
+            </ContentView>
+       
+       
+        
+        <Label Text="Registrarse" TextColor="Blue" HorizontalOptions="Center" TextDecorations="Underline" x:Name="btnRegistro" />
+
+        </StackLayout>
+    </StackLayout>
+
+    
+</ContentPage>
