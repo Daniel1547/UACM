@@ -8,17 +8,21 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UACM.View.Registro.xaml", "View/Registro.xaml", typeof(global::UACM.Page1))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UACM.View.Registro.xaml", "View/Registro.xaml", typeof(global::UACM.Registro))]
 
 namespace UACM {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("View\\Registro.xaml")]
-    public partial class Page1 : global::Xamarin.Forms.ContentPage {
+    public partial class Registro : global::Xamarin.Forms.ContentPage {
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
+        private global::Xamarin.Forms.ImageButton btnAudio;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(Page1));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(Registro));
+            btnAudio = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.ImageButton>(this, "btnAudio");
         }
     }
 }

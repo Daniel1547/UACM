@@ -57,6 +57,9 @@
         "win": {
           "#import": []
         },
+        "win-arm64": {
+          "#import": []
+        },
         "win-x64": {
           "#import": []
         },
@@ -132,7 +135,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

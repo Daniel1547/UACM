@@ -17,7 +17,6 @@ C:\Users\Dani\source\repos\UACM\UACM\UACM\obj\Debug\netstandard2.0\UACM.csproj.A
 C:\Users\Dani\source\repos\UACM\UACM\UACM\obj\Debug\netstandard2.0\UACM.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Dani\source\repos\UACM\UACM\UACM\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\Dani\source\repos\UACM\UACM\UACM\obj\Debug\netstandard2.0\View\MainPage.xaml.g.cs
-C:\Users\Dani\source\repos\UACM\UACM\UACM\obj\Debug\netstandard2.0\View\Registro.xaml.g.cs
 C:\Users\Dani\source\repos\UACM\UACM\UACM\obj\Debug\netstandard2.0\UACM.AssemblyInfoInputs.cache
 C:\Users\Dani\source\repos\UACM\UACM\UACM\obj\Debug\netstandard2.0\UACM.AssemblyInfo.cs
 C:\Users\Dani\source\repos\UACM\UACM\UACM\obj\Debug\netstandard2.0\UACM.csproj.CoreCompileInputs.cache
@@ -29,3 +28,6 @@ C:\Users\Dani\source\repos\UACM\UACM\UACM\bin\Debug\netstandard2.0\UACM.dll
 C:\Users\Dani\source\repos\UACM\UACM\UACM\bin\Debug\netstandard2.0\UACM.pdb
 C:\Users\Dani\source\repos\UACM\UACM\UACM\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\Dani\source\repos\UACM\UACM\UACM\obj\Debug\netstandard2.0\ref\UACM.dll
+C:\Users\Dani\source\repos\UACM\UACM\UACM\obj\Debug\netstandard2.0\View\InisioSesion.xaml.g.cs
+C:\Users\Dani\source\repos\UACM\UACM\UACM\obj\Debug\netstandard2.0\View\Principal.xaml.g.cs
+C:\Users\Dani\source\repos\UACM\UACM\UACM\obj\Debug\netstandard2.0\View\Registro.xaml.g.cs

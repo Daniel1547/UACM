@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="UACM.Principal"
+             Title="Pricipal">
+    
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Aqui sera la pagina de incio MainPage de la aplicacion sesion iniciada"
+               FontSize="21" TextColor="Red"/>
+        </StackLayout>
+    </ContentPage.Content>
+    
+</ContentPage>

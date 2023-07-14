@@ -1268,3 +1268,8 @@ C:\Users\Dani\source\repos\UACM\UACM\UACM.Android\obj\Debug\120\stamp\_GenerateP
 C:\Users\Dani\source\repos\UACM\UACM\UACM.Android\obj\Debug\120\stamp\_ResolveLibraryProjectImports.stamp
 C:\Users\Dani\source\repos\UACM\UACM\UACM.Android\obj\Debug\120\res\drawable\microfono.png
 C:\Users\Dani\source\repos\UACM\UACM\UACM.Android\obj\Debug\120\res\drawable\mic.jpg
+C:\Users\Dani\source\repos\UACM\UACM\UACM.Android\obj\Debug\120\android\src\mono\JavaInteropTypeManager.java
+C:\Users\Dani\source\repos\UACM\UACM\UACM.Android\obj\Debug\120\android\marshal_methods.arm64-v8a.o
+C:\Users\Dani\source\repos\UACM\UACM\UACM.Android\obj\Debug\120\android\marshal_methods.armeabi-v7a.o
+C:\Users\Dani\source\repos\UACM\UACM\UACM.Android\obj\Debug\120\android\marshal_methods.x86.o
+C:\Users\Dani\source\repos\UACM\UACM\UACM.Android\obj\Debug\120\android\marshal_methods.x86_64.o
